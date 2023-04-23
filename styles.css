@@ -4,10 +4,11 @@
 }
 
 .planner-item {
-    background-color: beige;
-    border: 1px solid black;
-    padding: 15px;
-    margin: 10px 0;
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+
 }
 
 .planner-item:hover {
